@@ -1,7 +1,16 @@
+<div>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Eduardo Ribeiro</i></a> 😃️</h1>
+  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a> e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
+  <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
+    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
+  </a><br>
+  <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+</div>
 <div align="center">
-  <a href="https://github.com/thiagoandradedeveloper">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoandradedeveloper&show_icons=true&theme=merko&include_all_commits=true&count_private=true" width='335' />&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoandradedeveloper&layout=compact&langs_count=7&theme=merko" width='400' />
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=merko&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
