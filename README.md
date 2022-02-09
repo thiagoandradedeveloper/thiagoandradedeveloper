@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/thiagoandradedeveloper">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoandradedeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width='400' />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoandradedeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width='400' />&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoandradedeveloper&layout=compact&langs_count=7&theme=dracula" width='400' />
 </div>
 <div style="display: inline_block"><br>
