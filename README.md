@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Thiago Andrade</i></a> 😉️</h1>
-  <p align="center">Estudo Desenvolvimento na Universidade Federal Fluminense</p>
+  <p align="center">Estudo Tecnologia em Sistemas de Computação na Universidade Federal Fluminense</p>
  
   </a>
 </div>
