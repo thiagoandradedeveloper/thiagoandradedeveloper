@@ -1,6 +1,16 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/thiago-andrade-308b686b/"><i>Thiago Andrade</i></a> 😉️</h1>
-  <p align="center">Estudo Tecnologia em Sistemas de Computação na Universidade Federal Fluminense</p>
+  <p align="center">Estudo Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF)</p>
+
+
+
+[![Thiago GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thiagoandradedeveloper&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thiagoandradedeveloper/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoandradedeveloper&hide_progress=true)](https://github.com/thiagoandradedeveloper/github-readme-stats)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thiagoandradedeveloper)](https://github.com/anurthiagoandradedeveloperaghazra/github-readme-stats)
+
+  <br><br>
  
   </a>
 </div>
@@ -31,6 +41,7 @@
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
+ 
  
 <img src='github-contribution-grid-snake.svg' /><br><br>
   
