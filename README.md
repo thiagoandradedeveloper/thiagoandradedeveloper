@@ -6,7 +6,7 @@
   <p align="center">Estudo Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF)</p>
 </div><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Andrade;I'm+37+years+old;I'm+from+Brazil;I'm+a+college+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Andrade;I'm+37+years+old;I'm+from+Brazil;I'm+a+college+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagoandradedeveloper&bg_color=0d1117&color=ff0&line=CDCD00&point=7FFF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
