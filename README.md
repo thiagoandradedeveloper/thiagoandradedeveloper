@@ -4,10 +4,7 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/thiago-andrade-308b686b/"><i>Thiago Andrade</i></a> 😉️</h1>
   <p align="center">Estudo Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF)</p>
- 
-  </a>
-</div>
-</div>
+</div><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Andrade;I'm+37+years+old;I'm+from+Brazil;I'm+a+college+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
