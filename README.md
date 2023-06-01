@@ -4,7 +4,7 @@
 
 
 
-[![Thiago GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thiagoandradedeveloper&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/thiagoandradedeveloper/github-readme-stats#gh-dark-mode-only)
+[![Thiago GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thiagoandradedeveloper&show_icons=true&theme=gruvbox#gh-dark-mode-only)](https://github.com/thiagoandradedeveloper/github-readme-stats#gh-dark-mode-only)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoandradedeveloper&hide_progress=true)](https://github.com/thiagoandradedeveloper/github-readme-stats)
 
