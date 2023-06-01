@@ -41,12 +41,8 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
  
- 
 <img src='github-contribution-grid-snake.svg' /><br><br>
-  
-<p align="center">Contador de Acessos</p>
-<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
-  
+ 
 </div>
 
 ### Ferramentas e Tecnologias
@@ -85,10 +81,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thiagoandradedeveloper&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thiagoandradedeveloper&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagoandradedeveloper&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Andrade github stats" /> 
@@ -110,7 +104,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{thiagoandradedeveloper}/count.svg" /></p> 
 <br>
 </div>
 
