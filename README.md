@@ -43,6 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="70" height="40" />
+<img src="https://miro.medium.com/v2/resize:fit:512/1*9U1toerFxB8aiFRreLxEUQ.png" width="70" height="40" />
 
 
 ### Studying in this moment
