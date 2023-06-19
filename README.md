@@ -32,7 +32,7 @@
   <a href="https://www.youtube.com/channel/UCsr76cuGk7LFnvs2I1F-11Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:thiagoha3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-<img src='github-contribution-grid-snake.svg' /><br><br>
+<!--<img src='github-contribution-grid-snake.svg' /><br><br>-->
  
 </div>
 
